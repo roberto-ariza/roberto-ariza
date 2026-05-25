@@ -35,8 +35,8 @@ Estudiante de **Administración de Sistemas (IES Zaidín-Vergeles)**. Mi enfoque
 ¡Siempre abierto a colaborar en proyectos de código abierto o redes!
 
 * 📍 **Granada, España** 🇪🇸
-* 💼 **LinkedIn:** [Tu enlace aquí]
-* ✉️ **Email:** [Tu email aquí]
+* 💼 **LinkedIn:** www.linkedin.com/in/roberto-ariza-79a112362
+* ✉️ **Email:** robertoarizamolina@gmail.com
 
 ---
 <p align="center">
